@@ -1,0 +1,33 @@
+timestamp,building,energy_kwh
+2025-01-01 08:00,Academic Block,35
+2025-01-01 09:00,Academic Block,55
+2025-01-01 10:00,Academic Block,80
+2025-01-01 11:00,Academic Block,95
+2025-01-01 12:00,Academic Block,110
+2025-01-01 14:00,Academic Block,90
+2025-01-01 16:00,Academic Block,60
+
+2025-01-01 08:00,Computer Lab,70
+2025-01-01 10:00,Computer Lab,120
+2025-01-01 12:00,Computer Lab,150
+2025-01-01 14:00,Computer Lab,130
+2025-01-01 16:00,Computer Lab,90
+
+2025-01-01 06:00,Hostel,40
+2025-01-01 08:00,Hostel,60
+2025-01-01 18:00,Hostel,120
+2025-01-01 22:00,Hostel,160
+
+2025-01-02 08:00,Academic Block,45
+2025-01-02 10:00,Academic Block,85
+2025-01-02 12:00,Academic Block,115
+2025-01-02 15:00,Academic Block,75
+
+2025-01-02 09:00,Library,30
+2025-01-02 12:00,Library,45
+2025-01-02 15:00,Library,40
+2025-01-02 18:00,Library,35
+
+2025-01-02 10:00,Cafeteria,60
+2025-01-02 13:00,Cafeteria,140
+2025-01-02 15:00,Cafeteria,100
